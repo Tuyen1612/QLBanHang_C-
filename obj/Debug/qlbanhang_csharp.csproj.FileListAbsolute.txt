@@ -1,0 +1,14 @@
+D:\LapTrinhWindows\qlBanHang_csharp\bin\Debug\qlbanhang_csharp.exe.config
+D:\LapTrinhWindows\qlBanHang_csharp\bin\Debug\qlbanhang_csharp.exe
+D:\LapTrinhWindows\qlBanHang_csharp\bin\Debug\qlbanhang_csharp.pdb
+D:\LapTrinhWindows\qlBanHang_csharp\obj\Debug\qlbanhang_csharp.csprojAssemblyReference.cache
+D:\LapTrinhWindows\qlBanHang_csharp\obj\Debug\qlbanhang_csharp.form_AddProduct.resources
+D:\LapTrinhWindows\qlBanHang_csharp\obj\Debug\qlbanhang_csharp.form_Color.resources
+D:\LapTrinhWindows\qlBanHang_csharp\obj\Debug\qlbanhang_csharp.form_ProductType.resources
+D:\LapTrinhWindows\qlBanHang_csharp\obj\Debug\qlbanhang_csharp.form_Size.resources
+D:\LapTrinhWindows\qlBanHang_csharp\obj\Debug\qlbanhang_csharp.frm_doanhThu.resources
+D:\LapTrinhWindows\qlBanHang_csharp\obj\Debug\qlbanhang_csharp.Properties.Resources.resources
+D:\LapTrinhWindows\qlBanHang_csharp\obj\Debug\qlbanhang_csharp.csproj.GenerateResource.cache
+D:\LapTrinhWindows\qlBanHang_csharp\obj\Debug\qlbanhang_csharp.csproj.CoreCompileInputs.cache
+D:\LapTrinhWindows\qlBanHang_csharp\obj\Debug\qlbanhang_csharp.exe
+D:\LapTrinhWindows\qlBanHang_csharp\obj\Debug\qlbanhang_csharp.pdb
